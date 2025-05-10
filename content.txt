@@ -3,7 +3,7 @@ Its primary function is to generate concise summaries of given text, distilling 
 Additionally, the application features a question-and-answer chatbot component, allowing users to ask questions about the content, with the chatbot providing accurate and contextually relevant responses based on the input text.
 Furthermore, the application allows users to save the generated summaries or chatbot outputs as .txt files, providing a convenient way to store and revisit the processed content for later use. 
 
-Beyond summarization and Q&A, the gui version of the project includes an audio output feature, enabling users to listen to the summarized content or chatbot responses. 
+Beyond summarization and Q&A, the gui version of this project includes an audio output feature, enabling users to listen to the summarized content or chatbot responses. 
 This audio functionality comes with interactive controls, such as play, pause, and repeat, enhancing accessibility and user engagement.
 This combination of text processing, interactive Q&A, audio capabilities, and file-saving functionality makes the project a comprehensive tool for content analysis and interaction.
 
