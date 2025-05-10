@@ -11,10 +11,10 @@ A command-line tool to summarize text and answer questions about the content usi
 1. Clone the repository: git clone https://github.com/srisaiajay11/ContentSummarizerCLI.git
    cd ContentSummarizerCLI
 2. Install dependencies:
-    pip install -r requirements.txt
+    `pip install -r requirements.txt`
 
 3. Run the application:
-    python summarizer.py
+    `python summarizer.py`
 
 ## Requirements
 - Python 3.6+
